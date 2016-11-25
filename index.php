@@ -3,8 +3,9 @@
   <head>
   </head>
   <?php
-define("GREETING", "Welcome to W3Schools.com!");
-echo GREETING;
+define("GREETING", "Welcome to W3Schools.com 2!");
+  
+echo  GREETING;
 ?>
   <body>
   </body>
